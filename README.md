@@ -28,7 +28,7 @@ Here's the style entry I use for Infinite:
 
 PLEASE CHANGE THIS LINE IN THE CODE ACCORDING TO YOUR STYLE LIST - DON'T PULL AN ISSUE FOR SOMETHING THAT'S YOUR FAULT!!
 ````
-    if (Shavit_GetBhopStyle(client) != 11)
+    if (Shavit_GetBhopStyle(client) != 12)
         return Plugin_Continue;
 ````
 HF!
